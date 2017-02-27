@@ -2,7 +2,7 @@
 
 Add [Stan](http://mc-stan.org) syntax to [Notepad++](https://notepad-plus-plus.org/).
 
-[Example highlighting](example.png)
+![Example highlighting](example.png)
 
 # Installation
 1. Download stan-udl.xml
